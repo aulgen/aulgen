@@ -11,7 +11,17 @@ My name is Ayse. This is my github profile. Below, please find the languages I k
 |-----:|---------------|
 |     1| SQL           |
 |     2| Python        |
-|     3|  VBA          |
+|     3| VBA           |
+
+🌱 I’m currently learning github.
+
+🔭 I’m currently working on my Task05.
+
+# Most Recent Repositories
+
+Currently, there are 2 repositories in my profile. Below, the names are listed:
+* byb_project available at: <a href="https://github.com/aulgen/byb_project.git"> here:
+* aulgen available at: <a href="https://github.com/aulgen/aulgen.git"> here:
 
 <!--
 **aulgen/aulgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
