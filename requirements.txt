@@ -1,0 +1,11 @@
+# Ad Campaign Designer Team - Dependencies
+
+# Core
+anthropic>=0.39.0
+pydantic>=2.0.0
+
+# CLI formatting
+rich>=13.0.0
+
+# Environment management
+python-dotenv>=1.0.0
